@@ -1,6 +1,7 @@
 site_name: Arduino for Starters
 theme:
   name: material
+  custom_dir: docs/overrides
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
